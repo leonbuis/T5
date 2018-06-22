@@ -39,4 +39,16 @@
         xsi:type="archimate:BusinessInterface"
         href="BusinessInterface_f8ed1b33-8bfc-45cb-8e8d-ed7f825c12bf.xml#f8ed1b33-8bfc-45cb-8e8d-ed7f825c12bf"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1d80edb6-e504-400d-b092-4db0ba1ef3bc">
+    <bounds
+        x="569"
+        y="105"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_fa22947b-ea58-45f1-b8bc-0be6e02402df.xml#fa22947b-ea58-45f1-b8bc-0be6e02402df"/>
+  </children>
 </archimate:ArchimateDiagramModel>
