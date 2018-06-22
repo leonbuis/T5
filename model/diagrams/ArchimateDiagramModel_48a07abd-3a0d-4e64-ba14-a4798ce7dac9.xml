@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ccc"
+    id="48a07abd-3a0d-4e64-ba14-a4798ce7dac9">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b32ba75e-bbe8-43c3-a429-99edb21bee2d">
+    <bounds
+        x="526"
+        y="189"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_65e2fef2-ae67-437b-b43b-bb982235aaa7.xml#65e2fef2-ae67-437b-b43b-bb982235aaa7"/>
+  </children>
+</archimate:ArchimateDiagramModel>
